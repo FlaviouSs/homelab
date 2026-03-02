@@ -1,4 +1,8 @@
-# Homelab 
+# Homelab
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83f9f9b6-4d64-4262-936e-3d71eec9aa00" width="50%">
+</p>
 
 ## Introduction
 
